@@ -1,5 +1,6 @@
 Hi there, I'm Koray 👋
 I am an experienced front-end developer who is enthusiastic and passionate about solving user problems.
+
 If you want to reach me: admin@korayaslan.com
 
 <!--
