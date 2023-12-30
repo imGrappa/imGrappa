@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi there 👋
+An experienced front-end developer driven by the passion to explore the artificial world of software development and its challenges, eager and passionate about crafting solutions to user problems.
 
 <!--
 **imGrappa/imGrappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
