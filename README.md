@@ -47,7 +47,7 @@
 
 ###
 
-### 🔝 Top Contributed Repo
+### <h2 align="left">🔝 Top Contributed Repo</h2>
 ![](https://github-contributor-stats.vercel.app/api?username=imgrappa&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ###
