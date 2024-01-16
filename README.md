@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Hi there, I'm Koray 👋 I am an experienced front-end developer who is enthusiastic and passionate about solving user problems.<br><br>If you want to reach me: admin@korayaslan.com</h5>
+<h4 align="left">Hi there, I'm Koray 👋 I am an experienced front-end developer who is enthusiastic and passionate about solving user problems.<br><br>If you want to reach me: admin@korayaslan.com</h4>
 
 ###
 
